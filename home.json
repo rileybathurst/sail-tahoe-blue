@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TouristTrip",
+  "name": "Sail Tahoe Blue",
+  "description": "Private sailing charters and public boat tours in South Lake Tahoe offering sunset cruises, swim charters, and custom sailing experiences.",
+  "image": "https://sailtahoeblue.com/your-main-image.jpg",
+  "url": "https://sailtahoeblue.com",
+  "telephone": "5302133451",
+  "areaServed": {
+    "@type": "City",
+    "name": "South Lake Tahoe"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "South Lake Tahoe",
+    "addressRegion": "CA",
+    "addressCountry": "US"
+  },
+  "sameAs": [
+    "https://www.instagram.com/sailtahoeblue",
+    "https://www.facebook.com/sailtahoeblue"
+  ]
+}
