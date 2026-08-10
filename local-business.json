@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Sail Tahoe Blue",
+  "url": "https://www.sailtahoeblue.com/",
+  "telephone": "5302133451",
+  "email": "sailtahoeblue@gmail.com",
+  "image": "https://static.wixstatic.com/media/d3ac5e_82fdf2fcf0034c2c8187dc865b40fb14~mv2.png",
+  "address": {
+    "type": "PostalAddress",
+    "streetAddress": "900 Ski Run Boulevard",
+    "addressLocality": "South Lake Tahoe",
+    "addressRegion": "CA",
+    "postalCode": "96150",
+    "addressCountry": {
+      "type": "Country",
+      "name": "US"
+    }
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "South Lake Tahoe"
+  }
+}
