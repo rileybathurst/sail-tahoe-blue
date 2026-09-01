@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "OfferCatalog",
+  "name": "Sail Tahoe Blue Public Cruises",
+  "url": "https://www.sailtahoeblue.com/",
+  "itemListElement": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Morning Cruise",
+        "description": "Start your day on calm, glassy waters with a refreshing morning sail on Lake Tahoe — complete with complimentary drinks and our signature mimosas.",
+        "duration": "PT2H",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Sail Tahoe Blue"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "High Noon Cruise",
+        "description": "Soak up the sunshine on a vibrant midday sail across Lake Tahoe, complete with complimentary drinks and wide-open alpine views.",
+        "duration": "PT2H",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Sail Tahoe Blue"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Afternoon Cruise",
+        "description": "Unwind on a relaxed afternoon sail across Lake Tahoe with complimentary drinks, mountain views, and sunshine stretching into golden hour.",
+        "duration": "PT2H",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Sail Tahoe Blue"
+        }
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Sunset Cruise",
+        "description": "Sail into golden hour on Lake Tahoe with champagne skies, mountain reflections, good company, and a glass in hand as the sun melts into the horizon.",
+        "duration": "PT2H",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Sail Tahoe Blue"
+        }
+      }
+    }
+  ]
+}

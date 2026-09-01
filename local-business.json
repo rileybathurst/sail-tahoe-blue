@@ -25,6 +25,8 @@
     }
   ],
   "foundingDate": "2020",
+  "openingHours": "Mo-Su 10:00-20:00",
+  "priceRange": "$$",
   "geo": {
     "@type": "GeoCoordinates",
     "latitude": 38.94433,
@@ -37,9 +39,10 @@
     "description": "South Lake Tahoe sailing cruises and private charters.",
     "contentUrl": "https://www.youtube.com/watch?v=RUxGnUIeBCg",
     "embedUrl": "https://www.youtube.com/embed/RUxGnUIeBCg",
-    "thumbnailUrl": "https://i.ytimg.com/vi/RUxGnUIeBCg/hqdefault.jpg"
+    "thumbnailUrl": "https://i.ytimg.com/vi/RUxGnUIeBCg/hqdefault.jpg",
+    "uploadDate": "2021-06-25"
   },
-  "paymentAccepted":"credit card",
+  "paymentAccepted":"credit card, cash",
   "keywords": "sail lake tahoe adventure, sail lake tahoe, lake tahoe sailing, lake tahoe sunset cruise, lake tahoe sailing private charter",
   "description": "relaxed public sailing cruises, private charters, and unforgettable special events. From laid-back celebrations to once-in-a-lifetime moments.",
   "address": {
