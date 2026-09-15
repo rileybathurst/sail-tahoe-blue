@@ -33,15 +33,6 @@
     "longitude": -119.97607
   },
   "hasMap": "https://www.google.com/maps?rlz=1C5OZZY_enUS1177US1177&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIMzMzM2owajeoAgCwAgA&um=1&ie=UTF-8&fb=1&gl=us&sa=X&geocode=KbNtCimYkZmAMR_dL8PNwFpF&daddr=900+Ski+Run+Blvd,+South+Lake+Tahoe,+CA+96150",
-  "video": {
-    "@type": "VideoObject",
-    "name": "Sail Tahoe Blue",
-    "description": "South Lake Tahoe sailing cruises and private charters.",
-    "contentUrl": "https://www.youtube.com/watch?v=RUxGnUIeBCg",
-    "embedUrl": "https://www.youtube.com/embed/RUxGnUIeBCg",
-    "thumbnailUrl": "https://i.ytimg.com/vi/RUxGnUIeBCg/hqdefault.jpg",
-    "uploadDate": "2021-06-25"
-  },
   "paymentAccepted":"credit card, cash",
   "keywords": "sail lake tahoe adventure, sail lake tahoe, lake tahoe sailing, lake tahoe sunset cruise, lake tahoe sailing private charter",
   "description": "relaxed public sailing cruises, private charters, and unforgettable special events. From laid-back celebrations to once-in-a-lifetime moments.",

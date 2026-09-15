@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Sail Tahoe Blue",
+  "description": "South Lake Tahoe sailing cruises and private charters.",
+  "contentUrl": "https://www.youtube.com/watch?v=RUxGnUIeBCg",
+  "embedUrl": "https://www.youtube.com/embed/RUxGnUIeBCg",
+  "thumbnailUrl": "https://i.ytimg.com/vi/RUxGnUIeBCg/hqdefault.jpg",
+  "uploadDate": "2021-06-25"
+}
