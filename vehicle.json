@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Vehicle",
+  "name": "Blue",
+  "description": "Blue is a 40-foot Santa Cruz monohull sailboat with offshore racing pedigree, now thoughtfully equipped for Lake Tahoe public cruises and private charters.",
+  "url": "https://www.sailtahoeblue.com/",
+  "vehicleModel": "Santa Cruz monohull sailboat",
+  "vehicleConfiguration": "40-foot monohull sailboat",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Former use",
+      "value": "Offshore racing, including the Transpac"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Current use",
+      "value": "Lake Tahoe public cruises and private charters"
+    }
+  ]
+}

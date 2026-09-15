@@ -7,10 +7,13 @@
     {
       "@type": "Offer",
       "itemOffered": {
-        "@type": "Service",
+        "@type": ["BoatTrip", "Service"],
         "name": "Morning Cruise",
         "description": "Start your day on calm, glassy waters with a refreshing morning sail on Lake Tahoe — complete with complimentary drinks and our signature mimosas.",
         "duration": "PT2H",
+        "departureTime": "10:30:00",
+        "arrivalTime": "12:30:00",
+
         "provider": {
           "@type": "LocalBusiness",
           "name": "Sail Tahoe Blue"
@@ -20,10 +23,13 @@
     {
       "@type": "Offer",
       "itemOffered": {
-        "@type": "Service",
+        "@type": ["BoatTrip", "Service"],
         "name": "High Noon Cruise",
         "description": "Soak up the sunshine on a vibrant midday sail across Lake Tahoe, complete with complimentary drinks and wide-open alpine views.",
         "duration": "PT2H",
+        "departureTime": "12:30:00",
+        "arrivalTime": "14:30:00",
+
         "provider": {
           "@type": "LocalBusiness",
           "name": "Sail Tahoe Blue"
@@ -33,10 +39,14 @@
     {
       "@type": "Offer",
       "itemOffered": {
-        "@type": "Service",
+        "@type": ["BoatTrip", "Service"],
         "name": "Afternoon Cruise",
         "description": "Unwind on a relaxed afternoon sail across Lake Tahoe with complimentary drinks, mountain views, and sunshine stretching into golden hour.",
         "duration": "PT2H",
+        "departureTime": "14:00:00",
+        "arrivalTime": "16:00:00",
+        
+
         "provider": {
           "@type": "LocalBusiness",
           "name": "Sail Tahoe Blue"
@@ -46,10 +56,13 @@
     {
       "@type": "Offer",
       "itemOffered": {
-        "@type": "Service",
+        "@type": ["BoatTrip", "Service"],
         "name": "Sunset Cruise",
         "description": "Sail into golden hour on Lake Tahoe with champagne skies, mountain reflections, good company, and a glass in hand as the sun melts into the horizon.",
         "duration": "PT2H",
+        "departureTime": "16:15:00",
+        "arrivalTime": "18:15:00",
+
         "provider": {
           "@type": "LocalBusiness",
           "name": "Sail Tahoe Blue"
